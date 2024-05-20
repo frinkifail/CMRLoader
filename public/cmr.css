@@ -1,0 +1,11 @@
+#cmr-dom {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    text-align: left;
+}
+
+input {
+    font-family: inherit;
+}
